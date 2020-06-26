@@ -36,6 +36,7 @@ public class CountingCharacters {
         for (Map.Entry<Character, Integer> character : charCount.entrySet()) {
             System.out.println(character.getKey() + ": " + character.getValue());
         }
+        System.out.println(charCount);
 
 //        System.out.println(charCount);
     }
