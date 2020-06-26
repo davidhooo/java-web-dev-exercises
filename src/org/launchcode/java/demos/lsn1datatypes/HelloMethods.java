@@ -6,4 +6,5 @@ public class HelloMethods {
         String message = Message.getMessage("butt");
         System.out.println(message);
     }
+
 }
